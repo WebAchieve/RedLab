@@ -1,4 +1,4 @@
-# testforredlab
+# RedLab
 
 ## Project setup
 ```
